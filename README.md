@@ -9,3 +9,5 @@ Fine.
 I, Al3x, am a programmer(bug writter) at the same time wants to be a designer(kindergarten level).
 
 #Test the authentication.
+
+#Modified git config with my email.
